@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.nishant.spring.redis.property.RedisProperty",
+      "name": "spring",
+      "type": "com.nishant.spring.redis.property.RedisProperty"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.nishant.spring.redis.property.RedisProperty",
+      "name": "spring.redis",
+      "type": "com.nishant.spring.redis.property.Redis"
+    }
+  ]
+}
